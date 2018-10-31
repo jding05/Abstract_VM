@@ -1,0 +1,7 @@
+push int32(5)
+push int8(6)
+push int16(6)
+pop
+assert int8(6)
+dump
+exit
